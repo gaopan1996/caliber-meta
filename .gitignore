@@ -23,3 +23,6 @@
 hs_err_pid*
 caliber-eureka
 caliber-config
+/.metadata/
+/.metadata/
+caliber-zuul

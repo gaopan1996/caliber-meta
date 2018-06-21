@@ -1,6 +1,7 @@
 {
   "projects": {
     "caliber-eureka": "https://github.com/revaturelabs/caliber-eureka.git",
-    "caliber-config": "https://github.com/revaturelabs/caliber-config.git"
+    "caliber-config": "https://github.com/revaturelabs/caliber-config.git",
+    "caliber-zuul": "https://github.com/revaturelabs/caliber-zuul.git"
   }
 }
