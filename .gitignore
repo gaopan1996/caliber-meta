@@ -21,9 +21,16 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-caliber-eureka
-caliber-config
 /.metadata/
+caliber-config
+caliber-document-service
+caliber-email-service
+caliber-eureka
+caliber-evaluation-service
+caliber-integration-service
+caliber-panel-service
+caliber-reporting-service
+caliber-training-service
 caliber-zuul
 
 /Servers/
