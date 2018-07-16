@@ -18,6 +18,6 @@ CALIBER_CONFIG_SERVER_URL : http://localhost:8888/
 ### Netflix Eureka
 Necessary environment variables:
 ```
-CALIBER_EUREKA_SERVER_URL : http://localhost:8761/
+CALIBER_EUREKA_SERVER_URL : http://localhost:8761/eureka/
 ```
 For more information on the Meta tool: visit https://github.com/mateodelnorte/meta 
