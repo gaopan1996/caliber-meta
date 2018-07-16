@@ -15,4 +15,9 @@ CALIBER_CONFIG_GIT_PASSWORD : your Gitlab password
 CALIBER_CONFIG_SERVER_URL : http://localhost:8888/
 ```
 
+### Netflix Eureka
+Necessary environment variables:
+```
+CALIBER_EUREKA_SERVER_URL : http://localhost:8761/
+```
 For more information on the Meta tool: visit https://github.com/mateodelnorte/meta 
