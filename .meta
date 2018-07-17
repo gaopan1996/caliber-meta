@@ -4,11 +4,13 @@
     "caliber-config": "https://github.com/revaturelabs/caliber-config.git",
     "caliber-zuul": "https://github.com/revaturelabs/caliber-zuul.git",
     "caliber-training-service": "https://github.com/revaturelabs/caliber-training-service.git",
-    "caliber-reporting-service": "https://github.com/revaturelabs/caliber-reporting-service.git", 
+    "caliber-reporting-service": "https://github.com/revaturelabs/caliber-reporting-service.git",
     "caliber-panel-service": "https://github.com/revaturelabs/caliber-panel-service.git",
     "caliber-integration-service": "https://github.com/revaturelabs/caliber-integration-service.git",
     "caliber-evaluation-service": "https://github.com/revaturelabs/caliber-evaluation-service.git",
     "caliber-email-service": "https://github.com/revaturelabs/caliber-email-service.git",
-    "caliber-document-service": "https://github.com/revaturelabs/caliber-document-service.git"
+    "caliber-document-service": "https://github.com/revaturelabs/caliber-document-service.git",
+    "tech-screening-service": "https://github.com/revaturelabs/tech-screening-service.git",
+    "screening-admin-service": "https://github.com/revaturelabs/screening-admin-service.git"
   }
 }
