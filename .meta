@@ -9,6 +9,7 @@
     "caliber-panel-service": "https://github.com/revaturelabs/caliber-panel-service.git",	
     "caliber-integration-service": "https://github.com/revaturelabs/caliber-integration-service.git",	
     "caliber-evaluation-service": "https://github.com/revaturelabs/caliber-evaluation-service.git",	
-    "caliber-email-service": "https://github.com/revaturelabs/caliber-email-service.git"
+    "caliber-email-service": "https://github.com/revaturelabs/caliber-email-service.git",
+	"caliber-auth-service": "https://github.com/revaturelabs/caliber-auth-service.git"
   }
 }
